@@ -1,0 +1,45 @@
+C:\Users\oson_\Documents\Visual Studio 2022\Projekt\Tictac\bin\Debug\net6.0\Tictac.exe
+C:\Users\oson_\Documents\Visual Studio 2022\Projekt\Tictac\bin\Debug\net6.0\Tictac.deps.json
+C:\Users\oson_\Documents\Visual Studio 2022\Projekt\Tictac\bin\Debug\net6.0\Tictac.runtimeconfig.json
+C:\Users\oson_\Documents\Visual Studio 2022\Projekt\Tictac\bin\Debug\net6.0\Tictac.dll
+C:\Users\oson_\Documents\Visual Studio 2022\Projekt\Tictac\bin\Debug\net6.0\Tictac.pdb
+C:\Users\oson_\Documents\Visual Studio 2022\Projekt\Tictac\obj\Debug\net6.0\Tictac.csproj.AssemblyReference.cache
+C:\Users\oson_\Documents\Visual Studio 2022\Projekt\Tictac\obj\Debug\net6.0\Tictac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oson_\Documents\Visual Studio 2022\Projekt\Tictac\obj\Debug\net6.0\Tictac.AssemblyInfoInputs.cache
+C:\Users\oson_\Documents\Visual Studio 2022\Projekt\Tictac\obj\Debug\net6.0\Tictac.AssemblyInfo.cs
+C:\Users\oson_\Documents\Visual Studio 2022\Projekt\Tictac\obj\Debug\net6.0\Tictac.csproj.CoreCompileInputs.cache
+C:\Users\oson_\Documents\Visual Studio 2022\Projekt\Tictac\obj\Debug\net6.0\Tictac.dll
+C:\Users\oson_\Documents\Visual Studio 2022\Projekt\Tictac\obj\Debug\net6.0\refint\Tictac.dll
+C:\Users\oson_\Documents\Visual Studio 2022\Projekt\Tictac\obj\Debug\net6.0\Tictac.pdb
+C:\Users\oson_\Documents\Visual Studio 2022\Projekt\Tictac\obj\Debug\net6.0\Tictac.genruntimeconfig.cache
+C:\Users\oson_\Documents\Visual Studio 2022\Projekt\Tictac\obj\Debug\net6.0\ref\Tictac.dll
+C:\Users\oson_\Desktop\Visual Studios\Tictac\obj\Debug\net6.0\Tictac.csproj.AssemblyReference.cache
+C:\Users\oson_\Desktop\Visual Studios\Tictac\obj\Debug\net6.0\Tictac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oson_\Desktop\Visual Studios\Tictac\obj\Debug\net6.0\Tictac.AssemblyInfoInputs.cache
+C:\Users\oson_\Desktop\Visual Studios\Tictac\obj\Debug\net6.0\Tictac.AssemblyInfo.cs
+C:\Users\oson_\Desktop\Visual Studios\Tictac\obj\Debug\net6.0\Tictac.csproj.CoreCompileInputs.cache
+C:\Users\oson_\Desktop\Visual Studios\Tictac\obj\Debug\net6.0\Tictac.dll
+C:\Users\oson_\Desktop\Visual Studios\Tictac\obj\Debug\net6.0\refint\Tictac.dll
+C:\Users\oson_\Desktop\Visual Studios\Tictac\obj\Debug\net6.0\Tictac.pdb
+C:\Users\oson_\Desktop\Visual Studios\Tictac\bin\Debug\net6.0\Tictac.exe
+C:\Users\oson_\Desktop\Visual Studios\Tictac\bin\Debug\net6.0\Tictac.deps.json
+C:\Users\oson_\Desktop\Visual Studios\Tictac\bin\Debug\net6.0\Tictac.runtimeconfig.json
+C:\Users\oson_\Desktop\Visual Studios\Tictac\bin\Debug\net6.0\Tictac.dll
+C:\Users\oson_\Desktop\Visual Studios\Tictac\bin\Debug\net6.0\Tictac.pdb
+C:\Users\oson_\Desktop\Visual Studios\Tictac\obj\Debug\net6.0\Tictac.genruntimeconfig.cache
+C:\Users\oson_\Desktop\Visual Studios\Tictac\obj\Debug\net6.0\ref\Tictac.dll
+C:\Users\Edvar\Desktop\Tictac\obj\Debug\net6.0\Tictac.dll
+C:\Users\Edvar\Desktop\Tictac\obj\Debug\net6.0\refint\Tictac.dll
+C:\Users\Edvar\Desktop\Tictac\obj\Debug\net6.0\Tictac.pdb
+C:\Users\Edvar\Desktop\Tictac\obj\Debug\net6.0\Tictac.csproj.AssemblyReference.cache
+C:\Users\Edvar\Desktop\Tictac\obj\Debug\net6.0\Tictac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edvar\Desktop\Tictac\obj\Debug\net6.0\Tictac.AssemblyInfoInputs.cache
+C:\Users\Edvar\Desktop\Tictac\obj\Debug\net6.0\Tictac.AssemblyInfo.cs
+C:\Users\Edvar\Desktop\Tictac\obj\Debug\net6.0\Tictac.csproj.CoreCompileInputs.cache
+C:\Users\Edvar\Desktop\Tictac\bin\Debug\net6.0\Tictac.exe
+C:\Users\Edvar\Desktop\Tictac\bin\Debug\net6.0\Tictac.deps.json
+C:\Users\Edvar\Desktop\Tictac\bin\Debug\net6.0\Tictac.runtimeconfig.json
+C:\Users\Edvar\Desktop\Tictac\bin\Debug\net6.0\Tictac.dll
+C:\Users\Edvar\Desktop\Tictac\bin\Debug\net6.0\Tictac.pdb
+C:\Users\Edvar\Desktop\Tictac\obj\Debug\net6.0\Tictac.genruntimeconfig.cache
+C:\Users\Edvar\Desktop\Tictac\obj\Debug\net6.0\ref\Tictac.dll
